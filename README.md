@@ -17,10 +17,7 @@ Pronouns- he/him
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman Logo" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB Logo" width="40" height="40">
 
 Connect with me here : 
-
-Linkedin -
-
-<a href="https://www.linkedin.com/in/vivek-jangir-25737a226/" target="_blank">
+Linkedin -<a href="https://www.linkedin.com/in/vivek-jangir-25737a226/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
 </a>
 
